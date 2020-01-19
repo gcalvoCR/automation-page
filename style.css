@@ -1,0 +1,64 @@
+body {
+    overflow-x: hidden;
+}
+
+footer p{
+    width:95%;
+    text-align: right;
+    padding-top: 5vh;
+}
+
+footer a{
+    width:98%;
+    text-align: right;
+    padding-top: 5vh;
+}
+
+#nav{
+    border: none;
+    background-color: #FCFCFC;
+}
+
+#slogan{
+    font-weight: 800;
+    font-size: 60px;
+}
+
+#footer{
+    color: white;
+    background-color: #333333;
+    min-height: 12vh;
+}
+
+#brand{
+    padding-left: 15vh;
+    padding-right: 10%;
+    font-size: 25px;
+}
+
+#main-picture{
+    height: 85vh;
+    bottom:0px;
+}
+
+#main-section{
+    min-height: 85vh;
+}
+
+#right-section{
+    min-height: 85vh;
+}
+
+#login-form{
+    padding-top: 15vh;
+}
+
+.nav-item:hover{
+    font-weight: bold;
+}
+
+
+
+
+
+
